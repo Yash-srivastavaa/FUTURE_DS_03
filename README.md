@@ -17,9 +17,10 @@ Analyzed raw student feedback data from college events to uncover satisfaction t
 
 ---
 
-## 📈 Key Insights
-- **Tech Fest** had the highest ratings & positive sentiment.  
-- **Startup Meetup** received mixed reviews — schedule & organization issues noted.  
-- Recommendation: Improve communication and event logistics.
+## 📈 Key Insights (Based on Actual Data)
+- **Finance Summit** had the **highest average rating** (3.42) with mostly Neutral & Positive feedback, and **no negative comments**.  
+- **Cultural Night** had the **lowest average rating** (2.56) with 4 negative feedback entries.  
+- **Startup Meetup** had a mixed sentiment profile — 3 negative, 12 neutral, 10 positive comments.  
+- **Tech Fest** and **Workshop on AI** both scored around 3.05, with balanced positive & neutral sentiment, and few negatives.
 
 ---
