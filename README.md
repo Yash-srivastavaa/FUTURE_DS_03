@@ -17,7 +17,7 @@ Analyzed raw student feedback data from college events to uncover satisfaction t
 
 ---
 
-## 📈 Key Insights (Based on Actual Data)
+## 📈 Key Insights
 - **Finance Summit** had the **highest average rating** (3.42) with mostly Neutral & Positive feedback, and **no negative comments**.  
 - **Cultural Night** had the **lowest average rating** (2.56) with 4 negative feedback entries.  
 - **Startup Meetup** had a mixed sentiment profile — 3 negative, 12 neutral, 10 positive comments.  
